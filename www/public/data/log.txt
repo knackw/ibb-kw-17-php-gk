@@ -1,0 +1,12 @@
+Notice=Illegal Index
+Warning=Undifined Variable
+Fatal Error=Syntax Error
+Notice=Illegal Index
+Warning=Undifined Variable
+Fatal Error=Syntax Error
+Notice=Illegal Index
+Warning=Undifined Variable
+Fatal Error=Syntax Error
+Notice=Illegal Index
+Warning=Undifined Variable
+Fatal Error=Syntax Error
